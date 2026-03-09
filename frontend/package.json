@@ -7,8 +7,13 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.16.0",
     "axios": "^1.5.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
     "tailwindcss": "^3.3.0",
-    "react-scripts": "5.0.1"
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
   },
   "scripts": {
     "start": "react-scripts start",
